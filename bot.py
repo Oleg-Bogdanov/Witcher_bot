@@ -3,7 +3,7 @@ from telebot import types
 from info import user_data, lok, lore_info, monster_list
 from media import images
 import json
-token = '6668531597:AAG8Uy3tgPBbuRKTeE7t9pGAd0eKtlsQySE'
+token = ''
 bot = telebot.TeleBot(token)
 
 
