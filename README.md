@@ -6,6 +6,6 @@
 [_здесь_](https://disk.yandex.ru/d/IL9xJSt3VPRmew)
 ### Авторы
 над созданием бота работал Богданов Олег\
-с использованием нейросети **Kandinski**
+с использованием нейросети [**Kandinski**](https://fusionbrain.ai/?utm_source=kandinsky&utm_medium=web&utm_campaign=promo)
 > Никогда не сдавайся\
 > @ Олег Богданов
